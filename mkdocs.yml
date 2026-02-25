@@ -4,6 +4,7 @@ theme:
     name: 'readthedocs'
     palette:
 
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
